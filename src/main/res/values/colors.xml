@@ -28,7 +28,13 @@
 	<color name="green700">#ff388E3C</color>
 	<color name="green800">#ff2E7D32</color>
 	<color name="green900">#ff1B5E20</color>
-
+    <color name="Max500">#b5a7ff</color>
+    <color name="Max600">#998dd7</color>
+    <color name="Max700">#786eac</color>
+    <color name="Max800">#6a609e</color>
+    <color name="Max900">#372c76</color>
+    <color name="Max700_desaturated">#9b98ab</color>
+    <color name="Max900_desaturated">#453d75</color>
 	<color name="green700_desaturated">#ff4d8e50</color> <!-- desaturated by 15 -->
 	<color name="green900_desaturated">#ff295e2d</color> <!-- desaturated by 15 -->
 
